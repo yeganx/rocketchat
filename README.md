@@ -19,7 +19,9 @@ http://chat.inumio.com/
 -you can check which conatiner is runnig with : #docker ps
 
  docker ps
+ 
 CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS                                             NAMES
+
 ac24811e70d1        dockercloud/haproxy   "/sbin/tini -- docke…"   42 minutes ago      Up 4 seconds      
 d4de85734abf        rocket.chat:latest    "bash -c 'for i in `…"   42 minutes ago      Up 6 seconds                                     chat_rocketchat_2
 583551f37b75        rocket.chat:latest    "bash -c 'for i in `…"   42 minutes ago      Up 7 seconds                                     chat_rocketchat_1
