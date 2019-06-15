@@ -18,4 +18,4 @@
 http://chat.inumio.com/
 -you can check which conatiner is runnig with : #docker ps
 
-***I realized that for scaling services in docker It's pretty bettrer to use docker swarm , but I have'nt time to try it . I almost interested in it , of course kubernetes technology manage it in the best way . but I hope can make some time to try it out .***
+**I realized that for scaling services in docker It's pretty better to use docker swarm , but I have'nt time to try it . I almost interested in it , of course kubernetes technology manage it in the best way . but I hope can make some time to try it out .**
